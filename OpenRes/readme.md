@@ -4,11 +4,11 @@
 ##Research question 1: Who participated the vote?
 ### Participation basic information-gender and state
 
-![text] ( OpenRes/No_ResBas.jpeg)
+![text] (No_ResBas.jpeg)
 
 ##Research question 2: Are different age groups correlated based on their participation patterns?
 ### See the detail of age
-![Text displayed for visually impaired](image_file_name.png “Hover-over text -- optional”)
+![Text displayed for visually impaired](Age_correlations.png)
 
 ##Research question 3: What states had the highest and lowest “Yes” votes?
 
