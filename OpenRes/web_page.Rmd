@@ -1,0 +1,26 @@
+### Research Question 1:
+#### What are the general participation patterns, basic statistics?
+
+
+```{r setup, include=FALSE}
+library("tibble")
+library(readr)
+library(dplyr)
+
+# read data
+total = read.csv(file.choose(), header =T)  
+# list what file you picked manually, hard to remember which file you choosed...
+total = read.csv("C:/Users/Sadia/Desktop/OpenRes/ResponseTotal.csv")
+AMLPS = read.csv("C:/Users/Sadia/Desktop/OpenRes/AMLPS_RESP_2017_17112017134913689.csv")
+female = read.csv("C:/Users/Sadia/Desktop/OpenRes/ResponseFemale.csv")
+male = read.csv("C:/Users/Sadia/Desktop/OpenRes/ResponseMale.csv")
+str(female)
+
+
+# Check the states data
+# get rid of duplicates
+AMLPS = distinct(AMLPS)
+female = distinct(female)
+male = distinct(male)
+total = distinct(total)
+```
