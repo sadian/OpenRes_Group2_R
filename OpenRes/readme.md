@@ -1,5 +1,8 @@
 #Marriage Equality Referendum Data
 
+##Prelimimnary Data Analysis - Outlier elimination
+![Text displayed for visually impaired](outlier_elimination.png)
+
 
 ##Research question 1: Who participated the vote?
 ### Participation basic information-gender and state
@@ -56,7 +59,12 @@ There was no relationship with the levels of over 85s and the outcome.
 
 
 ##Research question 5:Can different FED be correlated based on their participation patterns - Cluster analysis?
+### Clustering Tendency 
+![Text displayed for visually impaired](visual_assessment_of_clustering_tendency.png)
+
 ### Cluster 
 ![Text displayed for visually impaired](FED_clustering_analysis.png)
 
+## Outlier elimination
+![Text displayed for visually impaired](outlier_elimination.png)
 
