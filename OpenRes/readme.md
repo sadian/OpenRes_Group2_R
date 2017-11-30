@@ -4,7 +4,7 @@
 ##Research question 1: Who participated the vote?
 ### Participation basic information-gender and state
 
-![text] ( C:/Users/Administrator/Desktop/Marriage Equality/figure/No_ResBas.jpeg)
+![text] ( OpenRes/No_ResBas.jpeg)
 
 ##Research question 2: Are different age groups correlated based on their participation patterns?
 ### See the detail of age
