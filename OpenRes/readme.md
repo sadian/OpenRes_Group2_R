@@ -57,6 +57,6 @@ There was no relationship with the levels of over 85s and the outcome.
 
 ##Research question 5:Can different FED be correlated based on their participation patterns - Cluster analysis?
 ### Cluster 
-![Text displayed for visually impaired](image_file_name.png “Hover-over text -- optional”)
+![Text displayed for visually impaired](FED_clustering_analysis.png)
 
 
